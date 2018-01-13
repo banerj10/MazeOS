@@ -1,7 +1,7 @@
 MazeOS
 ======
 
-*An x86-based Operating System written from scratch*
+*An x86-based Operating System written from scratch as part of a group project*
 
 This 'public' branch includes a reduced set of files that is made up of just the OS code that our group wrote for the University of Illinois' Operating Systems class.
 
